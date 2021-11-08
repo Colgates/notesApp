@@ -1,7 +1,7 @@
 # NotesApp
 ![screenshot](/screenshot.webp)
 ## Description
-This is app for notes, I was just exploring Diffable DataSource and hoe to persist data with Realm framework
+This is app for notes, I was just exploring Diffable DataSource and how to persist data with Realm framework
 
 ## Built With
 - Swift
